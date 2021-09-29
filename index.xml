@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Personal Website NH</title>
+    <title>Home on Nico Hüttmann</title>
     <link>/</link>
-    <description>Recent content in Home on Personal Website NH</description>
+    <description>Recent content in Home on Nico Hüttmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -16,15 +16,6 @@
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
-    <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>/note/2017/06/14/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/note/2017/06/14/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
     </item>
     
     <item>
@@ -64,7 +55,9 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <description>Reading listHow to Write a Thesis
+Second
+XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS.</description>
     </item>
     
     <item>

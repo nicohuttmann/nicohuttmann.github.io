@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Personal Website NH</title>
+    <title>Categories on Nico Hüttmann</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Personal Website NH</description>
+    <description>Recent content in Categories on Nico Hüttmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
     <item>
       <title>Example</title>
       <link>/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/categories/example/</guid>
       <description></description>
