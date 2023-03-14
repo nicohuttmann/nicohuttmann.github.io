@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+<div id="content">
+
+Please find my publications on [Google scholar](https://scholar.google.ca/citations?hl=en&user=rWnze2YAAAAJ). 
+
+</div>

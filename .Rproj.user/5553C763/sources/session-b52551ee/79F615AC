@@ -3,7 +3,7 @@
     "path": "~/R/projects/website/nicohuttmann.github.io/footer.html",
     "project_path": "footer.html",
     "type": "html",
-    "hash": "0",
+    "hash": "1256216852",
     "contents": "",
     "dirty": false,
     "created": 1678781372582.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Sourceox5yfemxx438",
-        "cursorPosition": "0,29",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678782503,
+    "lastKnownWriteTime": 1678796783,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678782503711,
+    "last_content_update": 1678796783667,
     "read_only": false,
     "read_only_alternatives": []
 }

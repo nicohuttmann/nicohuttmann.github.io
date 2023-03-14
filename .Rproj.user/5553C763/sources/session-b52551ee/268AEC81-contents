@@ -2,23 +2,17 @@
 title: "Wilkommen!"
 ---
 
-<img src="https://www.computerhope.com/logo.gif" class="floatRight">
+<div id="content">
 
-Hi, this is Nico.  
-I guess I am an Early Career Researcher with a passion for everything mass spectrometry and proteins, in brief: [Proteomics](https://www.nature.com/articles/nature01511).  
+<img src="./files/M&amp;L-367.jpg" alt="Me" style="max-width:20%;min-width:40px;float:right;"/>
 
-
-Here's my [CV](https://raw.githubusercontent.com/nicohuttmann/nicohuttmann.github.io/master/files/CV_Nico_Huettmann_2023_03_10.pdf) with some more details.
-
-
-You can find me here: 
-- [GitHub](https://github.com/nicohuttmann)
-- [Scholar](https://scholar.google.ca/citations?hl=en&user=rWnze2YAAAAJ)
-- [Twitter](https://twitter.com/nicohuettmann)
-  
-  
-  
-  
+<p>Hi, this is Nico.<p/>
 
 
 
+I guess I am an Early Career Researcher with a passion for everything mass spectrometry and proteins, in brief: [Proteomics](https://www.nature.com/articles/nature01511).
+
+Here's my [CV](https://raw.githubusercontent.com/nicohuttmann/nicohuttmann.github.io/master/files/CV_Nico_Huettmann.pdf) with some more details.
+
+
+</div>

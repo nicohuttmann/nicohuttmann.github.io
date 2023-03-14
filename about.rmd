@@ -1,5 +1,9 @@
 ---
-title: "About This Website"
+title: "About"
 ---
 
-More about this website.
+<div id="content">
+
+More will come soon.
+
+</div>
