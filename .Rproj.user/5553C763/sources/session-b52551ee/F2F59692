@@ -3,7 +3,7 @@
     "path": "~/R/projects/website/nicohuttmann.github.io/about.rmd",
     "project_path": "about.rmd",
     "type": "r_markdown",
-    "hash": "3891968155",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1678778836741.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Sourceox5yfemxx438",
-        "cursorPosition": "8,6",
+        "cursorPosition": "6,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678797046,
+    "lastKnownWriteTime": 1678800705,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678797046270,
+    "last_content_update": 1678800705713,
     "read_only": false,
     "read_only_alternatives": []
 }

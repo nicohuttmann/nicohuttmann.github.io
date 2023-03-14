@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-<div id="content">
+<div id="content" style="margin-top:5%">
 
 __MS Software__
 

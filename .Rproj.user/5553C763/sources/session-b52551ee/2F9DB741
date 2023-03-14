@@ -3,7 +3,7 @@
     "path": "~/R/projects/website/nicohuttmann.github.io/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "1699038846",
+    "hash": "2185671362",
     "contents": "",
     "dirty": false,
     "created": 1678781546671.0,
@@ -11,16 +11,16 @@
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Sourceox5yfemxx438",
-        "cursorPosition": "1,30",
+        "Source": "Source",
+        "cursorPosition": "8,29",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678797016,
+    "lastKnownWriteTime": 1678801038,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678797016574,
+    "last_content_update": 1678801038580,
     "read_only": false,
     "read_only_alternatives": []
 }
