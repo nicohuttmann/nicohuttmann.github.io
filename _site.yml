@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Welcome"
+  title: "Nico Hüttmann"
   left:
     - text: "Home"
       href: index.html
@@ -11,7 +11,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: spacelab
+    theme: simplex
     highlight: textmate
     include:
       after_body: footer.html
