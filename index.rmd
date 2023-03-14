@@ -1,5 +1,22 @@
 ---
-title: "My Website"
+title: "Wilkommen!"
 ---
 
-Hello, Website!
+Hi, this is Nico. 
+I guess I am an Early Career Researcher with a passion for everything mass spectrometry and proteins, in brief: [Proteomics](https://www.nature.com/articles/nature01511).
+
+
+Here's my [CV](https://raw.githubusercontent.com/nicohuttmann/nicohuttmann.github.io/master/CV_Nico_Huettmann_2023_03_10.pdf) with some more details.
+
+
+You can find me here: 
+  - [GitHub](https://github.com/nicohuttmann)
+  - [Scholar](https://scholar.google.ca/citations?hl=en&user=rWnze2YAAAAJ)
+  - [Twitter](https://twitter.com/nicohuettmann)
+  
+  
+  
+  
+
+
+

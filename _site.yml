@@ -11,7 +11,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: spacelab
     highlight: textmate
     include:
       after_body: footer.html
