@@ -1,0 +1,8 @@
+---
+title: "Software"
+---
+
+_Software_
+
+
+- [Bruker MS batch export](http://2u7b8b-nico0h0ttmann.shinyapps.io/bruker2txt-export?_ga=2.222028254.79839202.1678779918-295135627.1678779918)
